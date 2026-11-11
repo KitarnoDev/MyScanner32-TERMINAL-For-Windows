@@ -5,3 +5,4 @@ Tested in Windows 11
 SUPPORT
 C++
 By Kitarno and K-Studios
+<img width="1044" height="789" alt="изображение" src="https://github.com/user-attachments/assets/2da14c32-f90f-4012-9f03-de22ca3e1a03" />
